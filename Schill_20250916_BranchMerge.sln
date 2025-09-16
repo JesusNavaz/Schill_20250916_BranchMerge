@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schill_20250916_BranchMerge", "Schill_20250916_BranchMerge.csproj", "{1A29B934-F1B3-4487-BE11-2877AC982D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A29B934-F1B3-4487-BE11-2877AC982D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A29B934-F1B3-4487-BE11-2877AC982D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A29B934-F1B3-4487-BE11-2877AC982D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A29B934-F1B3-4487-BE11-2877AC982D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A18B5E62-BE48-408C-B631-36E2AF1D7D59}
+	EndGlobalSection
+EndGlobal
